@@ -1,0 +1,16 @@
+#### 使用git复制项目
+
+- git clone 地址
+
+- 转接到自己的地址
+
+- git checkout -b 文件夹名     创建新的文件夹并将文件移至里面
+
+
+#### 提交项目
+- git add .    //把代码存储到暂存区
+
+- git commit -m "设备监控控制模块"
+
+- git push
+
